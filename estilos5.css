@@ -1,0 +1,14 @@
+body{
+   background-color: aliceblue;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.col h1{
+    font-size: 400%;
+    color: rgb(41, 58, 58);
+    text-align: center;
+
+}
